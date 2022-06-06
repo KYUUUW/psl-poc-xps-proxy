@@ -1,0 +1,15 @@
+/Users/kyuwon/sources/psl-poc-xps-proxy/bin/Debug/net6.0/psl-poc-xps-proxy
+/Users/kyuwon/sources/psl-poc-xps-proxy/bin/Debug/net6.0/psl-poc-xps-proxy.deps.json
+/Users/kyuwon/sources/psl-poc-xps-proxy/bin/Debug/net6.0/psl-poc-xps-proxy.runtimeconfig.json
+/Users/kyuwon/sources/psl-poc-xps-proxy/bin/Debug/net6.0/psl-poc-xps-proxy.dll
+/Users/kyuwon/sources/psl-poc-xps-proxy/bin/Debug/net6.0/psl-poc-xps-proxy.pdb
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.csproj.AssemblyReference.cache
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.AssemblyInfoInputs.cache
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.AssemblyInfo.cs
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.csproj.CoreCompileInputs.cache
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.dll
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/refint/psl-poc-xps-proxy.dll
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.pdb
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/psl-poc-xps-proxy.genruntimeconfig.cache
+/Users/kyuwon/sources/psl-poc-xps-proxy/obj/Debug/net6.0/ref/psl-poc-xps-proxy.dll
